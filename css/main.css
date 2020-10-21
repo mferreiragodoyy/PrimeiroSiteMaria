@@ -97,7 +97,7 @@ button.slick-prev{
     left: 10%;
     background-color: transparent;
     background-image: url('../anterior.png');
-    z-index: 100%;
+    z-index: 100;
 }
 button.slick-next{
     font-size: 0px;
@@ -109,7 +109,7 @@ button.slick-next{
     position: absolute;
     background-color: transparent;
     background-image: url('../proxima.png');
-    z-index: 100%;
+    z-index: 100;
     right: 10%;
 }
 .slick-list{
